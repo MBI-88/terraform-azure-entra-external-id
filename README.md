@@ -1,1 +1,1 @@
-# terraform-azure-ciam
+# terraform-azure-entra-external-id
